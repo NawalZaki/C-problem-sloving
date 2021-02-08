@@ -1,0 +1,13 @@
+E:\ITI 9 month\C#_ITI\Day3_iTi\bin\Debug\netcoreapp3.1\Day3_iTi.exe
+E:\ITI 9 month\C#_ITI\Day3_iTi\bin\Debug\netcoreapp3.1\Day3_iTi.deps.json
+E:\ITI 9 month\C#_ITI\Day3_iTi\bin\Debug\netcoreapp3.1\Day3_iTi.runtimeconfig.json
+E:\ITI 9 month\C#_ITI\Day3_iTi\bin\Debug\netcoreapp3.1\Day3_iTi.runtimeconfig.dev.json
+E:\ITI 9 month\C#_ITI\Day3_iTi\bin\Debug\netcoreapp3.1\Day3_iTi.dll
+E:\ITI 9 month\C#_ITI\Day3_iTi\bin\Debug\netcoreapp3.1\Day3_iTi.pdb
+E:\ITI 9 month\C#_ITI\Day3_iTi\obj\Debug\netcoreapp3.1\Day3_iTi.csprojAssemblyReference.cache
+E:\ITI 9 month\C#_ITI\Day3_iTi\obj\Debug\netcoreapp3.1\Day3_iTi.AssemblyInfoInputs.cache
+E:\ITI 9 month\C#_ITI\Day3_iTi\obj\Debug\netcoreapp3.1\Day3_iTi.AssemblyInfo.cs
+E:\ITI 9 month\C#_ITI\Day3_iTi\obj\Debug\netcoreapp3.1\Day3_iTi.csproj.CoreCompileInputs.cache
+E:\ITI 9 month\C#_ITI\Day3_iTi\obj\Debug\netcoreapp3.1\Day3_iTi.dll
+E:\ITI 9 month\C#_ITI\Day3_iTi\obj\Debug\netcoreapp3.1\Day3_iTi.pdb
+E:\ITI 9 month\C#_ITI\Day3_iTi\obj\Debug\netcoreapp3.1\Day3_iTi.genruntimeconfig.cache

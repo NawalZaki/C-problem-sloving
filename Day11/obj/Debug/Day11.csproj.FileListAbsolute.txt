@@ -1,0 +1,10 @@
+E:\ITI 9 month\C#_ITI\Day11\bin\Debug\Day11.exe.config
+E:\ITI 9 month\C#_ITI\Day11\bin\Debug\Day11.exe
+E:\ITI 9 month\C#_ITI\Day11\bin\Debug\Day11.pdb
+E:\ITI 9 month\C#_ITI\Day11\obj\Debug\Day11.csprojAssemblyReference.cache
+E:\ITI 9 month\C#_ITI\Day11\obj\Debug\Day11.Form1.resources
+E:\ITI 9 month\C#_ITI\Day11\obj\Debug\Day11.Properties.Resources.resources
+E:\ITI 9 month\C#_ITI\Day11\obj\Debug\Day11.csproj.GenerateResource.cache
+E:\ITI 9 month\C#_ITI\Day11\obj\Debug\Day11.csproj.CoreCompileInputs.cache
+E:\ITI 9 month\C#_ITI\Day11\obj\Debug\Day11.exe
+E:\ITI 9 month\C#_ITI\Day11\obj\Debug\Day11.pdb
