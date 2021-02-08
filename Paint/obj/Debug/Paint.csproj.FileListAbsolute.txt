@@ -1,0 +1,12 @@
+E:\ITI 9 month\C#_ITI\Paint\bin\Debug\Paint.exe.config
+E:\ITI 9 month\C#_ITI\Paint\bin\Debug\Paint.exe
+E:\ITI 9 month\C#_ITI\Paint\bin\Debug\Paint.pdb
+E:\ITI 9 month\C#_ITI\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+E:\ITI 9 month\C#_ITI\Paint\obj\Debug\Paint.Form1.resources
+E:\ITI 9 month\C#_ITI\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\ITI 9 month\C#_ITI\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+E:\ITI 9 month\C#_ITI\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+E:\ITI 9 month\C#_ITI\Paint\obj\Debug\Paint.exe
+E:\ITI 9 month\C#_ITI\Paint\obj\Debug\Paint.pdb
+E:\ITI 9 month\C#_ITI\Paint\obj\Debug\Paint.Form2.resources
+E:\ITI 9 month\C#_ITI\Paint\obj\Debug\Paint.Form3.resources

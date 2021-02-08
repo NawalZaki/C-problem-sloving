@@ -1,0 +1,13 @@
+E:\ITI 9 month\C#_ITI\Project\bin\Debug\Project.exe.config
+E:\ITI 9 month\C#_ITI\Project\bin\Debug\Project.exe
+E:\ITI 9 month\C#_ITI\Project\bin\Debug\Project.pdb
+E:\ITI 9 month\C#_ITI\Project\obj\Debug\Project.csprojAssemblyReference.cache
+E:\ITI 9 month\C#_ITI\Project\obj\Debug\Project.frmCategory.resources
+E:\ITI 9 month\C#_ITI\Project\obj\Debug\Project.frmLogin.resources
+E:\ITI 9 month\C#_ITI\Project\obj\Debug\Project.frmStart.resources
+E:\ITI 9 month\C#_ITI\Project\obj\Debug\Project.frmTask.resources
+E:\ITI 9 month\C#_ITI\Project\obj\Debug\Project.Properties.Resources.resources
+E:\ITI 9 month\C#_ITI\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\ITI 9 month\C#_ITI\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\ITI 9 month\C#_ITI\Project\obj\Debug\Project.exe
+E:\ITI 9 month\C#_ITI\Project\obj\Debug\Project.pdb
